@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">exemp1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Criando Apps</string>
+    <string name="second_fragment_label">Para android</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Voltar</string>
+
+    <string name="lorem_ipsum">
+        Hj vamos aprender a fumar bem gostosinho. Primeiro, tenha um beck. Segundo, de-lhe uma tragada. Terceiro, curta a brisa.
+    </string>
+</resources>
